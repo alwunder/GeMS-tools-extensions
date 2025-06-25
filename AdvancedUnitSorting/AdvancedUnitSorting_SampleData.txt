@@ -1,0 +1,100 @@
+Unit	Group	UnitAbove	UnitBelow	HierarchyKeyAge		SORT
+Qal			Msg	hk01-01-01		1
+Msg		Qal	Msl	hk01-03-02-03-01		2
+Msl		Msg		hk01-03-02-03-01		3
+Msg			Msl	hk01-03-02-03-01		4
+Msl		Msg	Mw	hk01-03-02-03-01		5
+Mw		Msl		hk01-03-02-03-01		6
+Qal			Msl	hk01-01-01		7
+Msl		Qal	Msw	hk01-03-02-03-01		8
+Msw		Msl	Mfp	hk01-03-02-03-01		9
+Mfp		Msw	as	hk01-03-02-03-03		10
+as		Mfp	Dc	hk01-03-02-03-03		11
+Dc		as		hk01-03-04-01-01		12
+Qal			Plsh	hk01-01-01		13
+Plsh		Qal	Mp	hk01-03-02-01-04		14
+Mp		Plsh	Mba	hk01-03-02-03		15
+Mba		Mp	Mha	hk01-03-02-03		16
+Mha		Mba	Mmu	hk01-03-02-03		17
+Mmu		Mha	Mmg	hk01-03-02-03		18
+Mmg		Mmu	Msl	hk01-03-02-03		19
+Msl		Mmg	Msw	hk01-03-02-03		20
+Msw		Msl	Mfp	hk01-03-02-03		21
+Mfp		Msw	rl	hk01-03-02-03		22
+rl		Mfp		hk01-03-02-03		23
+Mfp			Olcy	hk01-03-03-01-01		24
+Olcy		Mfp	Obc	hk01-03-08		25
+Obc		Olcy	Oh	hk01-03-08		26
+Oh		Obc	Oc	hk01-03-08		27
+Oc		Oh	Olb	hk01-03-08		28
+Olb		Oc		hk01-03-08		29
+Qal			Msg	hk01-01-01		30
+Msg		Qal	Msl	hk01-03-02-03		31
+Msl		Msg		hk01-03-02-03		32
+Pf			Mp	hk01-03-02-01		33
+Mp		Pf	Mb	hk01-03-02-03		34
+Mb		Mp	Mh	hk01-03-02-03		35
+Mh		Mb	Mm	hk01-03-02-03		36
+Mm		Mh	Msl	hk01-03-02-03		37
+Msl		Mm	Mw	hk01-03-02-03		38
+Mw		Msl	Mfp	hk01-03-02-03		39
+Mfp		Mw		hk01-03-02-03		40
+Qal			Pw	hk01-01-01		41
+Pw		Qal	Ps	hk01-03-02-01-04		42
+Ps		Pw	Pwp	hk01-03-02-01-04		43
+Pwp		Ps	Pra	hk01-03-02-01-04		44
+Pra		Pwp	Mpu	hk01-03-02-01-04		45
+Mpu		Pra	Mpl	hk01-03-02-03-01		46
+Mpl		Mpu	Mb	hk01-03-02-03-01		47
+Mb		Mpl	Mh	hk01-03-02-03-01		48
+Mh		Mb	Mm	hk01-03-02-03-01		49
+Mm		Mh		hk01-03-02-03-01		50
+Qal			Ps	hk01-01-01		51
+Ps		Qal	Pwp	hk01-03-02-01-04		52
+Pwp		Ps	Pra	hk01-03-02-01-04		53
+Pra		Pwp	Mp	hk01-03-02-01-04		54
+Mp		Pra	Mb	hk01-03-02-03-01		55
+Mb		Mp	Mh	hk01-03-02-03-01		56
+Mh		Mb	Mm	hk01-03-02-03-01		57
+Mm		Mh	Msl	hk01-03-02-03-01		58
+Msl		Mm	Mw	hk01-03-02-03-01		59
+Mw		Msl		hk01-03-02-03-01		60
+Mfp			Olcy	hk01-03-03-01-01		61
+Olcy		Mfp	Obc	hk01-03-08		62
+Obc		Olcy	Oh	hk01-03-08		63
+Oh		Obc	Oc	hk01-03-08		64
+Oc		Oh	Olb	hk01-03-08		65
+Olb		Oc		hk01-03-08		66
+Qal			Mfp	hk01-01-01		67
+Mfp		Qal	So	hk01-03-03-01-01		68
+So		Mfp	Sbr	hk01-03-07		69
+Sbr		So	Omf	hk01-03-07		70
+Omf		Sbr	Olcy	hk01-03-07		71
+Olcy		Omf	Obc	hk01-03-08-01-01		72
+Obc		Olcy		hk01-03-08-01-03		73
+Qal			Msl	hk01-01-01		74
+Msl		Qal	Mw	hk01-03-02-03		75
+Mw		Msl	Mfp	hk01-03-02-03		76
+Mfp		Mw	Sl	hk01-03-03-01-01		77
+Sl		Mfp		hk01-03-07		78
+Qal			Mfp	hk01-01-01		79
+Mfp		Qal	Olcy	hk01-03-03-01-01		80
+Olcy		Mfp	Obc	hk01-03-08		81
+Obc		Olcy	Oh	hk01-03-08		82
+Oh		Obc	Oc	hk01-03-08		83
+Oc		Oh	Olb	hk01-03-08		84
+Olb		Oc		hk01-03-08		85
+Oou			Oo	hk01-03-08-01-03		86
+Oo		Oou	Oom	hk01-03-08-01-03		87
+Oom		Oo	Oh	hk01-03-08-01-03		88
+Oh		Oom	Oa	hk01-03-08-01-03		89
+Oa		Oh	Ol	hk01-03-08-01-03		90
+Ol		Oa	Om	hk01-03-08-01-03		91
+Om		Ol	Ok	hk01-03-08-01-04		92
+Ok		Om	Old	hk01-03-08-01-04		93
+Old		Ok	Oc	hk01-03-08-01-04		94
+Oc		Old	Ocs	hk01-03-08-01-04		95
+Ocs		Oc	Ccr	hk01-03-08-01-04		96
+Ccr		Ocs	Ccm	hk01-03-10-01		97
+Ccm		Ccr	Cc	hk01-03-10-03		98
+Cc		Ccm		hk01-03-10-03		99
